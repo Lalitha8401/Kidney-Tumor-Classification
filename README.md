@@ -1,1 +1,1 @@
-# Kidney-Tumor-Classification
+# Kidney_Tumor_CNN
